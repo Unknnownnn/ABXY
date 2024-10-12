@@ -20,6 +20,7 @@ files under Linux or Windows emulators such as WINE may not work as
 intended.
 
 <h3>$${\color{red}Solution:}$$</h3>
+
 1. Run the .bat file in an isolated folder.
 2. This creates multiple folders at the file location
 
