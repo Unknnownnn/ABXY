@@ -20,32 +20,31 @@ files under Linux or Windows emulators such as WINE may not work as
 intended.
 
 <h3>$${\color{red}Solution:}$$</h3>
-1) Run the .bat file in an isolated folder.
-
-2) This creates multiple folders at the file location
+1. Run the .bat file in an isolated folder.
+2. This creates multiple folders at the file location
 
 ![image](https://github.com/user-attachments/assets/99eb9116-8ee1-42e2-bb25-d4fb5046dbd4)
 
-3) The .bat file self-destructs.
-4) The file copies itself to \New Folder(6)\CR\22.
+3. The .bat file self-destructs.
+4. The file copies itself to \New Folder(6)\CR\22.
 
 ![image](https://github.com/user-attachments/assets/78d1afdd-5cab-4077-81af-5dc2fec15ed5)
 
-5) Running the file repeats this again to \New Folder(6)\CR.
+5. Running the file repeats this again to \New Folder(6)\CR.
 
 ![image](https://github.com/user-attachments/assets/937bf3f5-eed8-406d-a883-aea1c2e02f21)
 
-6) Running the file again displays the message “Not here. Try Again.”
-7) The .bat file self-destructs.
-8) Within the users Documents folder, a file called dblank.txt is created.
+6. Running the file again displays the message “Not here. Try Again.”
+7. The .bat file self-destructs.
+8. Within the users Documents folder, a file called dblank.txt is created.
 
 ![image](https://github.com/user-attachments/assets/6873b96a-6e78-4b82-8f6a-63529848b92e)
 
-9) The password is found within it.
+9. The password is found within it.
 
 ![image](https://github.com/user-attachments/assets/3aed339b-e304-4602-ae40-c01fe597288a)
 
-10) Opening the .bat file with a text editor reveals a lot of commented
+10. Opening the .bat file with a text editor reveals a lot of commented
 code making the more time consuming to find the password within.
 ![image](https://github.com/user-attachments/assets/e7befdb9-d13c-41b9-85e1-07d24085407c)
 
