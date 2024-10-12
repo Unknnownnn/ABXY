@@ -1,6 +1,8 @@
 <h1 align="center">ABXY</h1>
 <h3 align="center">Forensics/Batch CTF</h3>
 
+<p align="center">CTF Made for Code and Conquer '24</p>
+
 <h3>$${\color{red}Overview:}$$</h3>
 We are given a .bat file called “ABXY.bat”. We need get the answer in
 hacker{XXXX}.
