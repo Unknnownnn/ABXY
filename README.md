@@ -51,4 +51,4 @@ code making the more time consuming to find the password within.
 
 
 <h3>$${\color{red}Flag:}$$</h3>
-<h4>$${\color{lightgreen}hacker{ 21qw14aabfgh3refl4gbt3}}$$</h4>
+<h4>$${\color{lightgreen}hacker(21qw14aabfgh3refl4gbt3)}$$</h4>
