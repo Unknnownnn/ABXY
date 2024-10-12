@@ -21,6 +21,7 @@ intended.
 
 <h3>$${\color{red}Solution:}$$</h3>
 1) Run the .bat file in an isolated folder.
+
 2) This creates multiple folders at the file location
 
 ![image](https://github.com/user-attachments/assets/99eb9116-8ee1-42e2-bb25-d4fb5046dbd4)
